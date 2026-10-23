@@ -1,43 +1,62 @@
 # LE_TRUNG_HIEU_24810320155_Bai_kiem_tra_so_2
+## I. THÔNG TIN SINH VIÊN
 * **Ho va ten:** Le Trung Hieu
 * **Ma so sinh vien:** 
 * **Lop hoc phan:** Lap trinh .NET 
 
-* **Link Repository:**
+* **Link Repository:** git clone https://github.com/ltrunghieu1214-design/LE_TRUNG_HIEU_24810320155_Bai_kiem_tra_so_2.git
 
+## II. DANH SÁCH BÀI TẬP HOÀN THÀNH & TỰ ĐÁNH GIÁ
+
+| Bài tập | Tiêu đề bài tập | Trạng thái | Mức độ hoàn thành (%) |
+| :---: | :--- | :---: | :---: |
+| **Bài 1** | Quản lý Dịch vụ Phòng Gym & Hội viên | Hoàn thành | 100% |
+| **Bài 2** | Báo cáo & Lưu trữ Tài liệu Nhà sách | Hoàn thành | 100% |
+| **Bài 3** | Hệ thống MDI Quản lý Bệnh viện & Async | Hoàn thành | 100% |
+| **Bài 4** | BẢNG ĐIỀU KHIỂN THỐNG KÊ DOANH THU MULTI-THREADING | Hoàn thành | 100% |
+| **Bài 5** | MÔ PHỎNG GIÁM SÁT TỶ GIÁ TÀI CHÍNH THỜI GIAN THỰC | Hoàn thành | 100% |
+
+## III. MINH HỌA GIAO DIỆN & KỸ THUẬT NỔI BẬT
 ##Bai_1:
-
+* **Kỹ thuật áp dụng:** Cấu hình DataGridView bằng code (`AutoGenerateColumns =
+false`), Data Binding 2 chiều với `BindingSource`, Validation với `ErrorProvider`.
 1.Anh man hinh giao dien chinh
 <img width="805" height="492" alt="Anh_giao_dien_chinh" src="https://github.com/user-attachments/assets/e1eb93a1-270d-4a4f-8e97-13d2b5d4b88b" />
 
 2.Anh man hinh chuc nang thuc thi/ ket qua
+*Mô tả: Giao diện chính hiển thị DataGridView và đồng bộ dữ liệu 2 chiều lên các
 <img width="801" height="483" alt="Anh_thuc_thi_chuc_nang_ket_qua" src="https://github.com/user-attachments/assets/ed15b068-6203-4631-9099-851cb1da1cfc" />
 
 3. Anh chuc nang xoa
 <img width="795" height="487" alt="Anh_chuc_nang_xoa" src="https://github.com/user-attachments/assets/b1b26bd8-c87f-407e-8a9b-ab9204b06b2e" />
 
+
 4.Anh man hinh kiem tra loi
 
+*Mô tả: Kiểm tra hợp lệ dữ liệu nhập vào bằng ErrorProvider khi nhấn Thêm mới.*
 <img width="797" height="486" alt="Anh_kiem_tra_loi" src="https://github.com/user-attachments/assets/2357b5a6-14ed-4a7f-8a5a-1fb1819c6a4e" />
 
 ##Bai_2
 
 1.Anh man hinh giao dien chinh
+* **Kỹ thuật áp dụng:** `OpenFileDialog` (Tải ảnh bìa), `SaveFileDialog` / `OpenFileDialog` (Đọc/Ghi file CSV), Cập nhật `StatusStrip` theo thời gian thực.
 <img width="806" height="492" alt="Anh_giao_dien_chinh" src="https://github.com/user-attachments/assets/b2a96b79-adc3-4ba3-b9f6-a79498e2b550" />
 
 2.Anh man hinh chuc nang thuc thi/ ket qua
 <img width="825" height="501" alt="Anh_thuc_thi_chuc_nang_ket_qua" src="https://github.com/user-attachments/assets/dd60aea2-0718-4eda-a595-eb8e8181fd1c" />
 
 3. Anh chuc nang chen anh
+
+*Mô tả: Chọn ảnh bìa sách từ đĩa cứng hiển thị lên PictureBox và nạp dữ liệu từ file CSV.*
 <img width="1743" height="777" alt="Anh_chuc_nang_chen_anh" src="https://github.com/user-attachments/assets/01260780-5aa7-4c4a-b8bd-f6f2fd25d0b8" />
 
-4. Anh luu xuat file
+5. Anh luu xuat file
 <img width="1175" height="658" alt="Anh_Xuat_file" src="https://github.com/user-attachments/assets/f9e128fe-cf2b-45d5-8b32-bbcd2f15f714" />
 
-5. Anh cap nhat
+6. Anh cap nhat
 <img width="805" height="487" alt="Anh_cap_nhat" src="https://github.com/user-attachments/assets/242e0e72-f835-4934-ab79-f4e74ca1bfef" />
 
-6. Anh kiem tra loi
+7. Anh kiem tra loi
 <img width="802" height="487" alt="Anh_kiem_tra_loi" src="https://github.com/user-attachments/assets/5d8b90e8-5129-495b-9f86-56255d3f9aad" />
 
 ##Bai_3
@@ -76,4 +95,7 @@
 3. Anh tam dung tien trinh
 <img width="1218" height="778" alt="Anh_dung_Tien_trinh" src="https://github.com/user-attachments/assets/e89b31c3-cbf0-4819-a3c5-b1e8c92cc918" />
 
-
+## IV. HƯỚNG DẪN CÀI ĐẶT & CHẠY DỰ ÁN
+1. Clone Repository về máy: git clone https://github.com/ltrunghieu1214-design/LE_TRUNG_HIEU_24810320155_Bai_kiem_tra_so_2.git
+2. Mở file solution src/WinFormsAppSolution.sln bằng Visual Studio 2022.
+3. Bấm F5 hoặc chọn Start để biên dịch và chạy chương trình.
