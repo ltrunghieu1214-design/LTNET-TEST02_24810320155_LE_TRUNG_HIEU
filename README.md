@@ -4,7 +4,7 @@
 * **Ma so sinh vien:** 24810320155
 * **Lop hoc phan:** Lap trinh .NET 
 
-* **Link Repository:** git clone https://github.com/ltrunghieu1214-design/LE_TRUNG_HIEU_24810320155_Bai_kiem_tra_so_2.git
+* **Link Repository:** https://github.com/ltrunghieu1214-design/LTNET-TEST02_24810320155_LE_TRUNG_HIEU.git
 
 ## II. DANH SÁCH BÀI TẬP HOÀN THÀNH & TỰ ĐÁNH GIÁ
 
@@ -96,6 +96,6 @@ false`), Data Binding 2 chiều với `BindingSource`, Validation với `ErrorPr
 <img width="1218" height="778" alt="Anh_dung_Tien_trinh" src="https://github.com/user-attachments/assets/e89b31c3-cbf0-4819-a3c5-b1e8c92cc918" />
 
 ## IV. HƯỚNG DẪN CÀI ĐẶT & CHẠY DỰ ÁN
-1. Clone Repository về máy: git clone https://github.com/ltrunghieu1214-design/LE_TRUNG_HIEU_24810320155_Bai_kiem_tra_so_2.git
+1. Clone Repository về máy: git clone https://github.com/ltrunghieu1214-design/LTNET-TEST02_24810320155_LE_TRUNG_HIEU.git
 2. Mở file solution src/WinFormsAppSolution.sln bằng Visual Studio 2022.
 3. Bấm F5 hoặc chọn Start để biên dịch và chạy chương trình.
