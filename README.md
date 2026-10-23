@@ -1,4 +1,4 @@
-# LE_TRUNG_HIEU_24810320155_Bai_kiem_tra_so_2
+# BÁO CÁO BÀI TẬP THỰC HÀNH LẬP TRÌNH C# WINFORMS
 ## I. THÔNG TIN SINH VIÊN
 * **Ho va ten:** Le Trung Hieu
 * **Ma so sinh vien:** 
