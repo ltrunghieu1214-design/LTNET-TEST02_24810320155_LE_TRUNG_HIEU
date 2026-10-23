@@ -1,7 +1,7 @@
 # BÁO CÁO BÀI TẬP THỰC HÀNH LẬP TRÌNH C# WINFORMS
 ## I. THÔNG TIN SINH VIÊN
 * **Ho va ten:** Le Trung Hieu
-* **Ma so sinh vien:** 
+* **Ma so sinh vien:** 24810320155
 * **Lop hoc phan:** Lap trinh .NET 
 
 * **Link Repository:** git clone https://github.com/ltrunghieu1214-design/LE_TRUNG_HIEU_24810320155_Bai_kiem_tra_so_2.git
